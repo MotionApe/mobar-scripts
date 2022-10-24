@@ -1,1 +1,2 @@
-https://github.com/MotionApe/purge-all-cache.git
+  // Purges all memory & cache
+  app.executeCommand(10200);
